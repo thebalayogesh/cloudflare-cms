@@ -1,1 +1,11 @@
-{}
+{
+  "custom-field": "hello",
+  "custom-object": {
+    "custom-line": "asad"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "dgsdf"
+    }
+  ]
+}
